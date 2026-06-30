@@ -2,7 +2,7 @@
 
 An interactive machine learning web app that classifies SMS/text messages as **Spam** or **Ham (Not Spam)** using a Naive Bayes classifier, built with Scikit-learn and deployed with Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+🔗 **Live Demo:** https://spam-detection-ml-raafe.streamlit.app/
 
 ---
 
